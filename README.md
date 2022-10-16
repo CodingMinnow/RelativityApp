@@ -8,4 +8,4 @@ Unfortunately, this is business as usual at U.S. law firms thanks to the dominan
 
 RelativityApp solves this issue. It accomplishes one simple task: remove those godforsaken prefixes. Nothing more, nothing less, but great for that reason.
 
-It's written in Python. To make it more accessible, I made a user interface using Tkinter and made it into an executable program via PyInstaller (.exe not available on GitHub).
+It's written in Python. To make it more accessible, I made a user interface using Tkinter and made it into an executable program via PyInstaller (.exe  available on GitHub).
